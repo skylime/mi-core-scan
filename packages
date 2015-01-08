@@ -1,0 +1,8 @@
+# List packages to add to your image one per line.
+clamav
+spamassassin
+pyzor
+p5-DB_File
+redis
+py27-pip
+py27-gdbm
