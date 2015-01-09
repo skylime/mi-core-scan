@@ -16,8 +16,11 @@ This image is part of the following images:
 
 ## mdata variables
 
-tbc
+- `api_redis_key` [*]: base64 encoded spipe key for mx server
+
+[*] is required to work properly.
 
 ## services
 
-tbc
+no services
+<img src="http://frupic.frubar.net/shots/32556.jpg">
