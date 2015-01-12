@@ -16,11 +16,11 @@ This image is part of the following images:
 
 ## mdata variables
 
-- `api_redis_key` [*]: base64 encoded spipe key for mx server
+- `scan_key` [*]: base64 encoded spipe key for mx server
 
 [*] is required to work properly.
 
 ## services
 
-no services
-<img src="http://frupic.frubar.net/shots/32556.jpg">
+- `53310/tcp`: spipe-end for clamav
+- `51133/tcp`: spipe-end for spamassassin
