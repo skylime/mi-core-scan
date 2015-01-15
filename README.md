@@ -24,3 +24,7 @@ This image is part of the following images:
 
 - `53310/tcp`: spipe-end for clamav
 - `51133/tcp`: spipe-end for spamassassin
+
+## IMPORTANT !!
+Listens only at IPV4 !
+Connection via IPV6 not possible at the moment.
